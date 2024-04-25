@@ -7,8 +7,7 @@ This project is an ecommerce website built with PHP and MySQL.
 1. [Installation](#installation)
 2. [Usage](#usage)
 3. [Database Setup](#database-setup)
-4. [Contributing](#contributing)
-5. [License](#license)
+4. [License](#license)
 
 ## Installation:
 To run this project locally, follow these steps:
